@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<KDC>
+	<port>4554</port>
+	<client-list>
+		<client>
+			<name>cl1</name>
+			<ckey>0000000001</ckey>
+		</client>
+		<client>
+			<name>cl2</name>
+			<ckey>0000000010</ckey>
+		</client>
+		<client>
+			<name>cl3</name>
+			<ckey>0000000011</ckey>
+		</client>
+		<client>
+			<name>cl4</name>
+			<ckey>0000000100</ckey>
+		</client>
+	</client-list>
+</KDC>

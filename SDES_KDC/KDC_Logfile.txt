@@ -1,0 +1,9 @@
+<<START>>
+Conection initialization request, by tsatsaulutzia, with IP: tsatsaulutzia/192.168.1.2, at port: 4554
+>>cl2 is now active on KDC.
+Conection initialization request, by 192.168.1.4, with IP: 192.168.1.4/192.168.1.4, at port: 4554
+>>cl1 is now active on KDC.
+>>cl1 wants to connect to cl2
+>> Sent notification to cl2.
+Error. Failed to listen to clients request.
+Error. Failed to listen to clients request.
